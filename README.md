@@ -6,7 +6,7 @@ Test runner:
 - [emcee](https://emceetool.io/)
 
 Полезные статьи:
-- [Запуск тестов без сборки проекта, пример кода](https://habr.com/ru/companies/vivid_money/articles/649901/)
+- [Запуск тестов без сборки проекта](https://habr.com/ru/companies/vivid_money/articles/649901/)
   
 Local mock server:
 - [Swifter](https://github.com/httpswift/swifter)
